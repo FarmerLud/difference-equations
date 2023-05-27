@@ -1,0 +1,29 @@
+:root {
+  font-family: sans-serif, Inter, system-ui, Avenir, Helvetica, Arial;
+
+  --smoke-gray-color: #c3c3c3;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  height: 100vh;
+}
+
+input, button {
+  outline: 0;
+  border: none;
+  font-size: 1rem;
+}
+
+h1 {
+  text-align: left;
+}
+
+#root {
+  height: 100%;
+}

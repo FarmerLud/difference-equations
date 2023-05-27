@@ -1,0 +1,11 @@
+.section {
+  display: grid;
+  grid-template-columns: auto auto;
+  gap: 0.5em;
+}
+
+.section input {
+  border: 1px solid silver;
+  border-radius: 0.25em;
+  text-align: center;
+}
